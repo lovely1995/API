@@ -1,7 +1,5 @@
-# API
-PHP-API
+# API-Function
 
-<h1>Function</h1><br>
 1.create<br>
 2.delete<br>
 3.update<br>
